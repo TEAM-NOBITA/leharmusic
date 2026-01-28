@@ -22,10 +22,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 ADS_MODE = getenv("ADS_MODE", None)
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", -1002543742001))
+LOGGER_ID = int(getenv("LOGGER_ID", -))
 
 # Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID",7903596664))
+OWNER_ID = int(getenv("OWNER_ID",))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,7 +35,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/System7860/leharmusic",
+    "https://github.com/TEAM-NOBITA/leharmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
