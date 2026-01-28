@@ -17,4 +17,4 @@ COPY . .
 RUN pip3 install --upgrade pip \
  && pip3 install -r requirements.txt
 
-CMD ["python3", "-m", "ShrutiMusic"]
+CMD ["python3", "-m", "MoonXMusic"]
