@@ -9,7 +9,7 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
-httpx
+httpx==0.23.3
 motor
 numpy
 opencv-python
@@ -25,9 +25,9 @@ requests
 speedtest-cli
 spotipy
 tgcrypto
-telegraph 
+telegraph
 unidecode
 youtube-search
-youtube-search-python
+youtube-search-python==1.6.6
 py-yt-search
 yt-dlp
