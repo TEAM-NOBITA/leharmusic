@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="./hari.svg" width="100%" alt="hari Banner" />
-</div>
-
-<br />
-
-<br />
-
 <h2 align="center">
     ──「 ᴍᴏᴏɴ 🌙 ᴍᴜsɪᴄ 」──
 
